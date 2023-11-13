@@ -1,0 +1,7 @@
+6
+training_armor.txt
+iron_armor.txt
+spartans_armor.txt
+old_sword.txt
+bronze_axe.txt
+spartans_spear.txt

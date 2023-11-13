@@ -1,0 +1,14 @@
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\bin\Debug\netcoreapp3.1\PRE_RPG_Proejct.exe
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\bin\Debug\netcoreapp3.1\PRE_RPG_Proejct.deps.json
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\bin\Debug\netcoreapp3.1\PRE_RPG_Proejct.runtimeconfig.json
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\bin\Debug\netcoreapp3.1\PRE_RPG_Proejct.runtimeconfig.dev.json
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\bin\Debug\netcoreapp3.1\PRE_RPG_Proejct.dll
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\bin\Debug\netcoreapp3.1\PRE_RPG_Proejct.pdb
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\obj\Debug\netcoreapp3.1\PRE_RPG_Proejct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\obj\Debug\netcoreapp3.1\PRE_RPG_Proejct.AssemblyInfoInputs.cache
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\obj\Debug\netcoreapp3.1\PRE_RPG_Proejct.AssemblyInfo.cs
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\obj\Debug\netcoreapp3.1\PRE_RPG_Proejct.csproj.CoreCompileInputs.cache
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\obj\Debug\netcoreapp3.1\PRE_RPG_Proejct.dll
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\obj\Debug\netcoreapp3.1\PRE_RPG_Proejct.pdb
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\obj\Debug\netcoreapp3.1\PRE_RPG_Proejct.genruntimeconfig.cache
+C:\Users\zofhf\source\repos\basic_CS\Personal_work\obj\Debug\netcoreapp3.1\PRE_RPG_Proejct.csproj.AssemblyReference.cache
